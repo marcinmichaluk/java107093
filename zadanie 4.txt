@@ -1,0 +1,7 @@
+Zastanów siê lub poszperaj w Internecie czym w³aœciwie ró¿ni siê klasa abstrakcyjna od interfejsu w kontekœcie Java?
+Podczas szukania przy okazji powtórzysz sobie za³o¿enia obu tych podejœæ i ustrukturyzujesz sobie wiedzê z tego zakresu.
+
+OdpowiedŸ:
+Interfejs to zbiór metod, które bêdzie trzeba zaimplementowaæ w danej klasie. 
+Klasa abstrakcyjna jest to klasa z której nie mo¿emy stworzyæ obiektów, mo¿e dziedziczyæ tylko po jednej klasie, a mo¿e implementowaæ wiele interfejsów. 
+W interfejsach mo¿na deklarowaæ metody, bez mo¿liwoœæi ich implementacji natomiast w klasach trzeba je zaimplementowaæ. 
